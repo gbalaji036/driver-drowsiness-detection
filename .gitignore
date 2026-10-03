@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Local binary models (downloaded dynamically by script)
+*.task
+
+# Local event logs and test outputs
+fatigue_log.csv
+output_annotated.mp4
+
+# OS and IDE files
+.vscode/
+.idea/
+.DS_Store
